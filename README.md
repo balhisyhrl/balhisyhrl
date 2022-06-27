@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iqbal Hidayat Syahril</h1>
-<h3 align="center">A passionate Backend developer from Indonesia</h3>
+<h3 align="center">A passionate Backend Web Developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [First Web](https://balhis.codes)
 

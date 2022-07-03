@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://balhis.codes](https://balhis.codes)
 
-- 📝 I regularly write articles on [https://balhis.tech](https://balhis.tech)
+- 📝 I regularly write articles on [https://balhis.codes](https://balhis.codes)
 
 - 💬 Ask me about **PHP, Wordpress**
 
@@ -58,7 +58,3 @@
 [![line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://twitter.com/balhisyhrl)
 [![icq](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)](https://twitter.com/balhisyhrl)
 [![ig](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/balhisyhrl)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->

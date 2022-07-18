@@ -46,8 +46,8 @@
 
 ---
 
-[![balhisyhrl GitHub Stats](https://github-readme-stats.vercel.app/api?username=balhisyhrl&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![balhisyhrl Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balhisyhrl&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![balhisyhrl GitHub Stats](https://github-readme-stats.vercel.app/api?username=balhisyhrl&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app/api?username=balhisyhrl&show_icons=true&hide=issues&theme=radical)
+[![balhisyhrl Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balhisyhrl&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=balhisyhrl&layout=compact&theme=radical)
 
 ## Connect with me:
 

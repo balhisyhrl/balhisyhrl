@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Iqbal Hidayat Syahril</h1>
 <h3 align="center">A passionate Backend Web Developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [First Web](https://balhis.codes)
 
-- 👨‍💻 All of my projects are available at [https://balhis.codes](https://balhis.codes)
+- 👨‍💻 All of my projects are available at [https://balhis.com](https://balhis.com)
 
-- 📝 I regularly write articles on [https://balhis.codes](https://balhis.codes)
+- 📝 I regularly write articles on [https://balhis.com](https://balhis.com)
 
 - 💬 Ask me about **PHP, Wordpress**
 
-- 📄 Know about my experiences [https://balhis.codes](https://balhis.codes)
+- 📄 Know about my experiences [https://balhis.com](https://balhis.com)
 
 - ⚡ Fun fact **I Am Interested Too Much On Anime**
 
